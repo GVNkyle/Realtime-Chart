@@ -1,5 +1,5 @@
 # Realtime-Chart
-# Angular 11 + .net 3.1
+# Angular 11 + .net 3.1 + SignalR
 ## Small app display chart from random value
 ## Can send Client-Specific message when click on the chart
 
